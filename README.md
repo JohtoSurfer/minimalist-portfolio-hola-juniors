@@ -20,6 +20,10 @@ This project is part of a challenge from the **Hola Juniors** community, focused
 - Organized and semantic code  
 - Mobile-friendly
 
+## 📸 Preview
+_A screenshot of the email design_  
+![Screenshot](assets/eli-web-removebg-preview.png)
+
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
