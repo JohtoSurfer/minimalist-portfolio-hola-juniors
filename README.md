@@ -22,7 +22,7 @@ This project is part of a challenge from the **Hola Juniors** community, focused
 
 ## 📸 Preview
 _A screenshot of the email design_  
-![Screenshot](assets/eli-web-removebg-preview.png)
+![Screenshot](assets/website-preview-eli.png)
 
 ## 🚀 How to Run the Project
 
