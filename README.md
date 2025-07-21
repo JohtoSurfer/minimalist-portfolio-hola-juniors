@@ -21,7 +21,7 @@ This project is part of a challenge from the **Hola Juniors** community, focused
 - Mobile-friendly
 
 ## 📸 Preview
-_A screenshot of the email design_  
+_A screenshot of the minimalist web design_  
 ![Screenshot](assets/website-preview-eli.png)
 
 ## 🚀 How to Run the Project
